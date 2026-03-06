@@ -1,0 +1,2 @@
+url: https://qa-scooter.praktikum-services.ru/order
+current_url: https://qa-scooter.praktikum-services.ru/order
